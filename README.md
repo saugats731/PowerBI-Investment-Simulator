@@ -67,6 +67,18 @@ Allows users to model wealth generation using the **Capital Asset Pricing Model*
 ### Financial Logic
 For a detailed breakdown of the math (Beta, Alpha, R-Squared) and the CAPM formula used in this tool, please see the [**Financial Logic Documentation**](FINANCIAL_LOGIC.md).
 
+---
+
+## ⚠️ Data Limitations & Disclaimer
+This dashboard aggregates data from two distinct API sources: **Yahoo Finance** (for historical pricing) and **Alpha Vantage** (for company metadata/sector info).
+
+Please note:
+* **Synchronization:** Occasionally, a stock ticker may exist in one database but not the other, resulting in missing sector labels or company descriptions.
+* **API Rate Limits:** As this uses free-tier API keys, data retrieval may sometimes be incomplete if request limits are exceeded during refresh.
+* **Data Latency:** Price data is not real-time and is intended for simulation/educational purposes only.
+
+---
+
 ## 🚀 How to Run
 1.  Download the `.pbix` file.
 2.  Open in **Power BI Desktop**.
