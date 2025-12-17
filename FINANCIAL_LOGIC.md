@@ -7,6 +7,7 @@ This document explains the financial formulas and metrics used in the Investment
 ### **Beta ($\beta$)**
 * **What it is:** A measure of how "wild" a stock is compared to the overall market (S&P 500).
 * **Interpretation:**
+ 
 | Beta Value | Risk Level | Example Stocks | What It Means |
 |------------|------------|----------------|---------------|
 | **< 0.5** | 🟢 Very Low Risk | Utilities, Consumer Staples | **Very Defensive**<br>- Moves much less than market<br>- Stable, predictable<br>- Good for conservative investors |
@@ -18,6 +19,7 @@ This document explains the financial formulas and metrics used in the Investment
 ### **Alpha ($\alpha$)**
 * **What it is:** The "Excess Return" earned above what was predicted by the risk taken. It measures the manager's skill or the stock's unique performance.
 * **Interpretation:**
+
 | Alpha Value | Performance | What It Means |
 |-------------|-------------|---------------|
 | **> +5%** | 🟢 Significantly Outperforming | **Excellent!**<br>- Beating market by a lot<br>- Great stock selection<br>- Manager/company doing very well |
@@ -29,6 +31,7 @@ This document explains the financial formulas and metrics used in the Investment
 ### **Sharpe Ratio**
 * **What it is:** Measures "Return per unit of Risk." It answers: *Is the roller coaster ride worth the reward?*
 * **Interpretation:**
+
 | Sharpe Ratio | Rating | What It Means |
 |--------------|--------|---------------|
 | **< 0** | ❌ Poor | **Avoid!**<br>- Losing money vs. safe investment<br>- Not worth the risk<br>- Better to keep money in bonds |
@@ -41,6 +44,7 @@ This document explains the financial formulas and metrics used in the Investment
 * **Scatter Plot:** Visualizes the correlation. The X-axis is the Benchmark Return (S&P 500), and the Y-axis is the Stock Return.
 * **$R^2$ (Correlation Strength):** Represents how much of the stock's movement is explained by the market.
 * **Interpretation:**
+
 | R² Value | Correlation | What It Means |
 |----------|-------------|---------------|
 | **0.80 - 1.00** | Very Strong | **Moves with Market**<br>- 80-100% explained by market<br>- Very predictable from market<br>- Example: Financial stocks |
@@ -149,5 +153,6 @@ A: Positive Alpha is good, but remember it's based on past performance. Past per
 
 **Q: What if my stock has high Beta but low Sharpe Ratio?**
 A: This means you're taking a lot of risk but not getting paid enough for it. Might want to reconsider this investment.
+
 
 
