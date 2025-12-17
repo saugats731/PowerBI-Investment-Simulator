@@ -134,25 +134,33 @@ $$FV = P \times (1 + r)^n$$
 ## ❓ Frequently Asked Questions
 
 **Q: Is a high Beta always bad?**
+
 A: No! High Beta means higher risk, but also higher potential return. It depends on your goals and risk tolerance.
 
 **Q: Can Alpha be negative forever?**
+
 A: Yes, if a stock consistently underperforms expectations. This means it's not worth the risk you're taking.
 
 **Q: What's a good Sharpe Ratio?**
+
 A: Generally, above 1.0 is good, above 2.0 is very good, and above 3.0 is excellent. Warren Buffett's career Sharpe is around 0.76!
 
 **Q: Does CAPM guarantee these returns?**
+
 A: No! CAPM tells you what you SHOULD expect based on risk, not what you WILL get. Actual returns can be very different.
 
 **Q: Why do I need R-Squared?**
+
 A: It tells you how much the stock follows the market. High R² = Market drives the stock. Low R² = Company-specific factors matter more.
 
 **Q: Should I only invest in stocks with positive Alpha?**
+
 A: Positive Alpha is good, but remember it's based on past performance. Past performance doesn't guarantee future results.
 
 **Q: What if my stock has high Beta but low Sharpe Ratio?**
+
 A: This means you're taking a lot of risk but not getting paid enough for it. Might want to reconsider this investment.
+
 
 
 
