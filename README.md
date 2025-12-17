@@ -61,7 +61,7 @@ Allows users to model wealth generation using the **Capital Asset Pricing Model*
 ### Data Modeling & DAX
 * **Disconnected Parameter Tables:** Used for the "Investment Amount" slider to enable "What-If" analysis without filtering the dataset.
 * **Dynamic Measures:**
-    * `Beta` = `COVARIANCE.P(Stock, Market) / VAR.P(Market)`
+    * `Beta` = `COVARIANCE(Stock, Market) / VAR(Market)`
     * `Expected Return` = `RiskFree + Beta * (MarketReturn - RiskFree)`
 
 ### Financial Logic
