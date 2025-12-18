@@ -84,3 +84,4 @@ Please note:
 2.  Open in **Power BI Desktop**.
 3.  Navigate to the **Investment Simulator** page.
 4.  Adjust the slider to simulate your own investment scenarios.
+5.  **Important Note:** When running inside Power BI Desktop, you must use **Ctrl + Click** to activate buttons (e.g., Time Period selectors) or follow navigation links.
